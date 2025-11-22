@@ -54,5 +54,6 @@ matrizes:
 <img width="364" height="403" alt="image" src="https://github.com/user-attachments/assets/e9552831-4836-42a5-b1e2-7bc77f033cd0" />
 
 Sair:
+###
 <img width="384" height="256" alt="image" src="https://github.com/user-attachments/assets/1894e990-b6d1-46ae-a987-9168c0a227f7" />
 

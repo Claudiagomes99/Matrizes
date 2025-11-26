@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class Matrizes {
     
-    // DECLARAÇÃO DO SCANNER COMO STATIC - CORREÇÃO PRINCIPAL
+    // DECLARAÇÃO DO SCANNER COMO STATIC
     static Scanner mat = new Scanner(System.in);
 
     public static void main(String[] args) {
